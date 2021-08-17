@@ -11,3 +11,4 @@ rebar3 projects related to RegexBuddy Regular Expression Tutorial
 * [Chapter 24](code/ch24)
 * [Chapter 25](code/ch25)
 * [Chapter 28](code/ch28)
+* [Chapter 47](code/ch47)
